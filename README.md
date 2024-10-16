@@ -22,7 +22,7 @@
 <h1 align="left">My contributions </h1>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mohammed-el-barhichi/mohammed-el-barhichi/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/elbarhichi/elbarhichi/output/snake.svg" alt="Snake animation" />
 </div>
 
 
@@ -33,18 +33,18 @@
 ###
 
 <div align="center">
-<a href="https://github.com/mohammed-el-barhichi">
-  <img height="150" align="center" src="https://streak-stats.demolab.com?user=mohammed-el-barhichi&theme=transparent&card_width=400&card_height=150" />
+<a href="https://github.com/elbarhichi">
+  <img height="150" align="center" src="https://streak-stats.demolab.com?user=elbarhichi&theme=transparent&card_width=400&card_height=150" />
 </a>
-<a href="https://github.com/mohammed-el-barhichi">
-  <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=mohammed-el-barhichi&theme=transparent&show_icons=true&hide=issues&show=prs_merged_percentage&rank_icon=github&include_all_commits=true" />
+<a href="https://github.com/elbarhichi">
+  <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=elbarhichi&theme=transparent&show_icons=true&hide=issues&show=prs_merged_percentage&rank_icon=github&include_all_commits=true" />
 </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-el-barhichi&theme=transparent&layout=donut-vertical" />
+  <img height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elbarhichi&theme=transparent&layout=donut-vertical" />
 </div>
 
 
@@ -52,7 +52,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mohammed-el-barhichi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed-el-barhichi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/elbarhichi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elbarhichi" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/med_el_barhichi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="med_el_barhichi" height="30" width="40" /></a>
 </p>
 
